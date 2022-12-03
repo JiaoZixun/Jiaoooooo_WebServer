@@ -1,0 +1,18 @@
+2022-08-18 13:32:59.527053 [Info]: ========== Server init ==========
+2022-08-18 13:33:00.163852 [Info]: Port:1316, OpenLinger: false
+2022-08-18 13:33:05.665150 [Info]: Listen Mode: LT, OpenConn Mode: LT
+2022-08-18 13:33:07.194366 [Info]: LogSys level: 1
+2022-08-18 13:34:12.938446 [Info]: ========== Server start ==========
+2022-08-18 13:37:57.194829 [Info]: Client[6](223.72.36.46:37713) in, userCount:1
+2022-08-18 13:37:57.194856 [Info]: Client[6] in!
+2022-08-18 14:17:39.443338 [Info]: ========== Server init ==========
+2022-08-18 14:17:39.443370 [Info]: Port:9000, OpenLinger: false
+2022-08-18 14:17:39.443374 [Info]: Listen Mode: LT, OpenConn Mode: LT
+2022-08-18 14:17:39.443377 [Info]: LogSys level: 1
+2022-08-18 14:17:46.200180 [Info]: ========== Server start ==========
+2022-08-18 14:19:25.991950 [Info]: Client[6](223.72.36.46:8272) in, userCount:1
+2022-08-18 14:19:25.991977 [Info]: Client[6] in!
+2022-08-18 14:19:59.223616 [Info]: Client[7](223.72.36.46:8528) in, userCount:2
+2022-08-18 14:19:59.223659 [Info]: Client[7] in!
+2022-08-18 14:21:12.321911 [Info]: Client[8](223.72.36.46:36688) in, userCount:3
+2022-08-18 14:21:12.321972 [Info]: Client[8] in!

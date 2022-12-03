@@ -1,0 +1,12 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "test01",      //和preLaunchTask一样
+            "type": "shell",
+            "command": "g++ main.cpp ./http/http_cond.cpp ./serve/epoller.cpp ./serve/webserve.cpp ./myLog/myLog.cpp -lpthread -g -o main -pthread"
+        }
+    ]
+}
